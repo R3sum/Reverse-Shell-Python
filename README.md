@@ -1,3 +1,12 @@
+>[!WARNING]
+> This tool is intended for **educational purposes only**.
+> Using this tool on systems you do not own or without **explicit written authorization** is illegal.
+> Unauthorized use may violate laws such as the
+> **Computer Fraud and Abuse Act (CFAA)** and similar legislation in other jurisdictions.
+> The author assumes **no responsibility** for misuse or damage caused by this tool.
+> Always operate in **controlled and authorized environments only**.
+>
+
 # Reverse-Shell-Python
 A reverse shell is a type of remote access technique used in cybersecurity, particularly in penetration testing and ethical hacking, where the target machine initiates the connection back to the attacker's machine 
 
