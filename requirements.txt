@@ -1,1 +1,1 @@
-install the python library socket
+install the python library socket and subprocess
